@@ -33,10 +33,9 @@ payload:
 - DOMAIN,ai.google.dev
 - DOMAIN,bard.google.com
 - DOMAIN,gemini.google.com
-
 - DOMAIN,aistudio.google.com
 - DOMAIN,makersuite.google.com
-
+- DOMAIN,www.gstatic.com
 - DOMAIN,alkalicore-pa.clients6.google.com
 - DOMAIN,alkalimakersuite-pa.clients6.google.com
 
@@ -44,7 +43,8 @@ payload:
 - DOMAIN-SUFFIX,generativelanguage.googleapis.com
 - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 - DOMAIN-SUFFIX,geller-pa.googleapis.com
-
+- DOMAIN-SUFFIX,signaler-pa.googleapis.com
+- DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
 - DOMAIN-SUFFIX,deepmind.com
 - DOMAIN-SUFFIX,deepmind.google
 
